@@ -59,6 +59,7 @@ main {
     /* box-shadow: 1px 1px 12px 1px #d3d3d3; */
     box-shadow: 1px 1px 12px 1px var(--shadow-gray-light);
     font-size: 30px;
+    text-transform: capitalize;
 } 
 /* &:hover {
     box-shadow: 1px 1px 15px 1px var(--shadow-gray-dark);
